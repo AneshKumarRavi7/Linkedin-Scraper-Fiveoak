@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: linkedinScraper2",
+            "type": "python",
+            "request": "launch",
+            "program": "linkedinScraper2.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}
